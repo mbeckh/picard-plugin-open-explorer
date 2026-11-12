@@ -1,0 +1,19 @@
+uuid = "67a51a35-f8e2-4bce-aa35-4a68548a262a"
+name = "Open File Explorer"
+description = "Open Windows File Explorer for selected file."
+api = ["3.0"]
+authors = ["Michael Beckh"]
+maintainers = ["Michael Beckh"]
+license = "Apache-2.0"
+license_url = "https://www.apache.org/licenses/LICENSE-2.0"
+long_description = """Open Windows File Explorer for selected file.
+
+The plugin adds a context menu action to open the selected file or path in Windows file explorer.
+
+This plugin is only targeting Picard running on Windows.
+"""
+categories = ["ui"]
+homepage = "https://github.com/mbeckh/picard-plugin-open-explorer"
+report_bugs_to = "https://github.com/mbeckh/picard-plugin-open-explorer/issues"
+min_python_version = "3.14"
+source_locale = "en"
